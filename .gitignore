@@ -1,0 +1,5 @@
+output
+.wdm
+chromedriver.exe
+config/__pycache__
+scrapers/__pycache__
